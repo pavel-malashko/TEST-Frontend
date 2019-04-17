@@ -1,4 +1,4 @@
-# TEST-Backend
+# TEST-Frontend
 
 * Test for company PixelPlex with use (React.js, Redux) 
 
