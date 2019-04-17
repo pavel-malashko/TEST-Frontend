@@ -1,6 +1,6 @@
 # TEST-Frontend
 
-* Test for company PixelPlex with use (React.js, Redux) 
+* Test for company PixelPlex with used (React.js, Redux) 
 
 ## Setup:
 
@@ -8,9 +8,9 @@
 
 - cd in terminal or  command line
 
-- yarn or npm install
+- npm install
 
-- yarn start  or npm start
+- npm start
   
   
   
