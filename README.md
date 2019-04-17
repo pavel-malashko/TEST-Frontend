@@ -1,3 +1,18 @@
+# TEST-Backend
+
+* Test for company PixelPlex with use (React.js, Redux) 
+
+## Setup:
+
+- git clone https://github.com/pavel-malashko/TEST-Frontend.git
+
+- cd in terminal or  command line
+
+- yarn or npm install
+
+- yarn start  or npm start
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
